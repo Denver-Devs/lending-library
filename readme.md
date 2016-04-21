@@ -7,3 +7,6 @@ Have a book you wouldn't mind lending to a community member? Follow the template
 Title | Author | Who Has It | Status
 ----- | ------ | ---------- | ------
 Sample Book | Sample Author | @user | Checked Out
+Advanced DOM Scripting | Jeffrey Sambells | @chrisbrown | Available
+Java Extreme Programming Cookbook | Eric M. Burke | @chrisbrown | Available
+Learning Java | Patrick Niemyer | @chrisbrown | Available
