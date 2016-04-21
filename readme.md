@@ -15,5 +15,5 @@ If Hemingway Wrote JavaScript | Angus Croll | @legittalon | Checked Out
 Learn You Some Erlang For Great Good | Fred Hebert | @legittalon | Available
 Learn You A Haskell For Great Good | Miran Lipovaca | @legittalon | Available
 The Republic | Plato | @legittalon | My Mom Has It I think
-Recompiler Issue 2 | Recompiler Zine | Checked Out
-Recompiler Issue 3 | Recompiler Zine | Available
+Recompiler Issue 2 | Recompiler Zine | @legittalon | Checked Out
+Recompiler Issue 3 | Recompiler Zine | @legittalon | Available
