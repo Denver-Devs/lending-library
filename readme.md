@@ -5,5 +5,5 @@ Have a book you wouldn't mind lending to a community member? Follow the template
 
 
 Title | Author | Who Has It | Status
------ | ------ | ----------
+----- | ------ | ---------- | ------
 Sample Book | Sample Author | @user | Checked Out
