@@ -10,3 +10,4 @@ Sample Book | Sample Author | @user | Checked Out
 Advanced DOM Scripting | Jeffrey Sambells | @chrisbrown | Available
 Java Extreme Programming Cookbook | Eric M. Burke | @chrisbrown | Available
 Learning Java | Patrick Niemyer | @chrisbrown | Available
+Graffiti (and other poems) | Savannah Brown | @legittalon | Available
